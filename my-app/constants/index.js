@@ -575,7 +575,7 @@ export const NFT_CONTRACT_ABI = [
       "outputs": [],
       "stateMutability": "nonpayable",
       "type": "function"
-    }, v
+    }, 
     {
       "stateMutability": "payable",
       "type": "receive"
